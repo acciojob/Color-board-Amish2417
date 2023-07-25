@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.square{
+	height:10px;
+	width:10px;
+	border:1px solid white;
+	background-color:black;
+}
+.row{
+	display:flex;
+}
